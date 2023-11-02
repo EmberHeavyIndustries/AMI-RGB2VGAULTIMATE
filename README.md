@@ -1,5 +1,5 @@
 # AMI-RGB2VGAULTIMATE
-Double buffered, impedance matched, user selectarblke filtered no vertical lines VGA adapter for all Amigas
+The Ultimate Double buffered, Impedance matched, User selectable filtered NO-VERTICAL_BARS RGB to VGA adapter for all Amigas
 
 
 **If you like this project and want to contribute to its further development, please consider donate some $ or € (paypal friends & family, please or DO NOT select "Buying something" from money transfer frontpage).** 
