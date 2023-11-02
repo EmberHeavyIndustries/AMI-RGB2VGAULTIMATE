@@ -27,16 +27,16 @@ User can freely select any of the four lowpass filter profiles, to either match 
 
 Further option is to switch between HSync and CSync for Sony PVM lucky users needs
 
-![Image of RGB2VGA2-01](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Docs/RGB2VGAULTIMATE.jpg)
+![Image of RGB2VGA2-01](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/RGB2VGAULTIMATE.jpg)
 
 # SCHEMATICS
 
 Full schematics can be found here
 
-[RGB2VGAPLUS Schematics](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Hardware/Schematic_RGB2VGA_V3_2023-11-02.pdf)
+[RGB2VGAPLUS Schematics](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Hardware/Schematic_RGB2VGA_V3_2023-11-02.pdf)
 
 # MAKER's FILES
 
-[Full RGB2VGAPLUS BOM](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Hardware/BOM_PCB_RGB2VGA_V3_2023-11-02.csv) and [GERBER files](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAPLUS/blob/main/Hardware/Gerber_PCB_RGB2VGA_V3.zip) can be freely downloaded.
+[Full RGB2VGAPLUS BOM](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Hardware/BOM_PCB_RGB2VGA_V3_2023-11-02.csv) and [GERBER files](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Hardware/Gerber_PCB_RGB2VGA_V3.zip) can be freely downloaded.
 Also check PIck&Place report inside the Hardware directory, if needed
 
