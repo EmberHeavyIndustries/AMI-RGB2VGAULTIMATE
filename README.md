@@ -56,11 +56,11 @@ The latter connector, rather rare nowadays, can be purchased from various Chines
 
 Each video component (R, G, B) is processed according to the following principle scheme:
 
-![Principle](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/1.jpg)
+![Principle](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/1.png)
 
 The switchable frequency lowpass filter show the following figures:
 
-![Filters](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/2.jpg)
+![Filters](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/2.png)
 
 
 # NOTE for users:
