@@ -23,6 +23,37 @@ The Ultimate Double buffered, Impedance matched, User selectable filtered NO-VER
 - Four user selectable filter settings: precisely match your display resolution for perfect quality !
 - Smaller than the original 390682-01/03 VGA dongle by commodore
 
+# THE ISSUE
+
+When connecting an Amiga computer (or in general any computer/console designed to be used with an analogue RGB monitor) to a modern LCD screen with a VGA interface, one can observe the typical 'jail bars', annoying horizontal stripes covering the entire screen.
+
+The VGA input , unlike the scart one, is not bandwidth limited in any way; thus it picks up any spurious noise on the Amiga RGB signals.
+
+More in detail, the basic problem is the VGA monitor: the Amiga video output was designed with CRTs in mind (which was the correct solution at the time); the video bandwidth of those CRTs was something limited to ~10MHz.
+
+Video jailbars artifact are, in the frequency domain, frequency components >28MHz (they come from the fundamental Amiga 28Mhz clock and its higher harmonics) .
+
+Modern VGA/LCD displays, support today video bandwidths of 130MHz and more, so they are able to display these frequency components which take the form of annoying jail bars.
+
+# THE SOLUTION
+
+A practical and effective solution to the issue is to limit the video bandwidth from the source with a proper video amplifier chip with lowpass filter.
+
+The cut-off frequency of the low-pass filter must be correctly calculated in order to eliminate unwanted frequencies, without however compromising the quality and definition of the video information to be displayed.
+
+In the case of the Amiga series computers, it is basically a matter of calibrating the filters for two major cases: OCS/ECS and AGA.
+In the first case, filtering calibrated at 9Mhz or 18Mhz is appropriate, while in the second case it is appropriate to increase the bandwidth, filtering around 30Mhz.
+
+The design described here combines in one device the ability to select any of four appropriate cut-off frequencies on the fly, using a commercial chip from Texas Instruments, which performs the function of video amplifier and selectable filter.
+
+The inputs and outputs of the circuit are also calibrated to the correct impedance of the video signals, and the horizontal and vertical synchronisation signals are buffered for maximum possible stability.
+
+Finally, an option has been included to replace the horizontal synchronisation signal with the composite synchronisation signal, so that Sony PVM-type displays or GBS-C-type converters can be connected.
+
+A few other passive components and the necessary VGA (to monitor) and DB-23 (to Amiga) connectors complete the design.
+
+The latter connector, rather rare nowadays, can be purchased from various Chinese suppliers, or made from a common DB-25 connector by simply removing the two outermost pins.
+
 # NOTE for users:
 
 User can freely select any of the four lowpass filter profiles, to either match SD, ED, HD or FHD resolutions for maximum clarity and cleaness
