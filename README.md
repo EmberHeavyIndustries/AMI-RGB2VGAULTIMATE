@@ -60,7 +60,7 @@ Each video component (R, G, B) is processed according to the following principle
 
 The switchable frequency lowpass filter show the following figures:
 
-![Principle](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/2.jpg)
+![Filters](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/2.jpg)
 
 
 # NOTE for users:
