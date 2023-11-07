@@ -54,6 +54,15 @@ A few other passive components and the necessary VGA (to monitor) and DB-23 (to 
 
 The latter connector, rather rare nowadays, can be purchased from various Chinese suppliers, or made from a common DB-25 connector by simply removing the two outermost pins.
 
+Each video component (R, G, B) is processed according to the following principle scheme:
+
+![Principle](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/1.jpg)
+
+The switchable frequency lowpass filter show the following figures:
+
+![Principle](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/2.jpg)
+
+
 # NOTE for users:
 
 User can freely select any of the four lowpass filter profiles, to either match SD, ED, HD or FHD resolutions for maximum clarity and cleaness
