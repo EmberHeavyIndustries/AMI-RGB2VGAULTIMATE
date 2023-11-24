@@ -13,6 +13,9 @@ The Ultimate Double buffered, Impedance matched, User selectable filtered NO-VER
 # A more detailed explanation and a builder's site 
 [PCBWAY's project page](https://www.pcbway.com/project/shareproject/AMIRGB2VGA_ULTIMATE_6bd4d0e4.html)
 
+![Image of RGB2VGA2-02](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/RGB2VGAV3_01_300.jpg)
+![Image of RGB2VGA2-03](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/RGB2VGAV3_02_300.jpg)
+
 # AMI-RGB2VGAULTIMATE is a **"revised-revised" RGB to VGA adapter** for the Amiga A500-A600-A2000 and A1200-A4000, with unique improvements:
 
 - Fully buffered Composite HSync and VSync signals
