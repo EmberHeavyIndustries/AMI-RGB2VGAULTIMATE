@@ -70,7 +70,10 @@ The switchable frequency lowpass filter show the following figures:
 
 User can freely select any of the four lowpass filter profiles, to either match SD, ED, HD or FHD resolutions for maximum clarity and cleaness
 
-Further option is to switch between HSync and CSync for Sony PVM lucky users needs
+Further option is to switch between HSync and CSync for Sony PVM lucky users needs.
+Looking the board from above, with DB23 connector on your left, settings are:
+  - Switch Down -> CSYnch
+  - Switch Up   -> HSync
 
 ![Image of RGB2VGA2-01](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/RGB2VGAULTIMATE.jpg)
 
