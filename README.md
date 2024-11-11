@@ -113,5 +113,4 @@ Under the following terms:
 | No additional restrict| You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  |
 
 
-### **HID2AMI BOOTLOADER** 
 
