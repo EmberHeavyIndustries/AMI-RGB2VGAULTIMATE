@@ -11,6 +11,12 @@ The Ultimate Double buffered, Impedance matched, User selectable filtered NO-VER
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # Shared project on a builder's site
+
+From time to time small batches could be available on sale on Amibay here:
+
+
+[Amibay project page]([https://www.pcbway.com/project/shareproject/AMIRGB2VGA_ULTIMATE_6bd4d0e4.html]
+
 [PCBWAY's project page](https://www.pcbway.com/project/shareproject/AMIRGB2VGA_ULTIMATE_6bd4d0e4.html)
 
 ![Image of RGB2VGA2-02](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/RGB2VGAV3_01_300.jpg)
