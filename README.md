@@ -14,7 +14,7 @@ The Ultimate Double buffered, Impedance matched, User selectable filtered NO-VER
 
 From time to time small batches could be available on sale on Amibay here:
 
-[Amibay project page]([https://www.pcbway.com/project/shareproject/AMIRGB2VGA_ULTIMATE_6bd4d0e4.html
+[Amibay project page]([https://www.pcbway.com/project/shareproject/AMIRGB2VGA_ULTIMATE_6bd4d0e4.html)
 
 [PCBWAY's project page](https://www.pcbway.com/project/shareproject/AMIRGB2VGA_ULTIMATE_6bd4d0e4.html)
 
