@@ -33,7 +33,7 @@ From time to time small batches could be available on sale on Amibay here:
 
 # THE ISSUE
 
-When connecting an Amiga computer (or in general any computer/console designed to be used with an analogue RGB monitor) to a modern LCD screen with a VGA interface, one can observe the typical 'jail bars', annoying horizontal stripes covering the entire screen.
+When connecting an Amiga computer (or in general any computer/console designed to be used with an analogue RGB monitor) to a modern LCD screen with a VGA interface, one can observe the typical 'jail bars', annoying vertical stripes covering the entire screen.
 
 The VGA input , unlike the scart one, is not bandwidth limited in any way; thus it picks up any spurious noise on the Amiga RGB signals.
 
