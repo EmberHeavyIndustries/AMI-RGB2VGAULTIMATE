@@ -94,8 +94,8 @@ Full schematics can be found here
 [Full RGB2VGAPLUS BOM](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Hardware/BOM_PCB_RGB2VGA_V3_2023-11-02.csv) and [GERBER files](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Hardware/Gerber_PCB_RGB2VGA_V3.zip) can be freely downloaded.
 Also check PIck&Place report inside the Hardware directory, if needed
 
-"V3" files are for the original revision
-"V3b" files are for an alternative DB15 (the VGA connetcor) layout
+'V3' files are for the original revision
+'V3b' files are for an alternative DB15 (the VGA connetcor) layout
 
 
 ## **LICENSE TERMS**
