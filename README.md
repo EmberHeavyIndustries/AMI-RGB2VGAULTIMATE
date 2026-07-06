@@ -98,6 +98,11 @@ Also check PIck&Place report inside the Hardware directory, if needed
 
 'V3b' files are for an alternative DB15 (the VGA connetcor) layout
 
+# MAKER's SHELLCASE
+
+User SpaceFlightorange kindly designed and made it available to anyone a wonderful case for the V3b variant
+
+
 
 ## **LICENSE TERMS**
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
