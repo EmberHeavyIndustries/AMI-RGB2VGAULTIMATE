@@ -100,7 +100,7 @@ Also check PIck&Place report inside the Hardware directory, if needed
 
 # MAKER's SHELLCASE
 
-User SpaceFlightorange kindly designed and made it available to anyone a wonderful case for the V3b variant
+User **SpaceFlightorange** kindly designed and made it available to anyone a wonderful case for the V3b variant
 
 
 
