@@ -100,7 +100,13 @@ Also check PIck&Place report inside the Hardware directory, if needed
 
 # MAKER's SHELLCASE
 
-User **SpaceFlightorange** kindly designed and made it available to anyone a wonderful case for the V3b variant
+User **SpaceFlightorange** kindly designed and made it available to anyone a wonderful case for the **V3b** variant. 
+Thank you very much for your awesome work !!
+
+![Image of RGB2VGA2-04](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/IMG_8985.jpg)
+![Image of RGB2VGA2-05](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Docs/IMG_8986.jpg)
+
+ [CASEV3B files](https://github.com/EmberHeavyIndustries/AMI-RGB2VGAULTIMATE/blob/main/Hardware/RGB2VGA_Ultimate_V3b_Case.zip) can be freely downloaded.
 
 
 
