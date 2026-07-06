@@ -95,6 +95,7 @@ Full schematics can be found here
 Also check PIck&Place report inside the Hardware directory, if needed
 
 'V3' files are for the original revision
+
 'V3b' files are for an alternative DB15 (the VGA connetcor) layout
 
 
